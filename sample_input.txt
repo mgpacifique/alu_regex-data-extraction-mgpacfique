@@ -1,0 +1,86 @@
+Customer Support Transcript - API Response Data
+================================================
+
+Date: January 28, 2026
+Session ID: TXN-2026-00451
+
+Customer Information:
+Name: Sarah Johnson
+Email: sarah.johnson@techcorp.com
+Alternative Email: s.johnson@gmail.com
+Phone: (555) 123-4567
+Mobile: 555.987.6543
+
+Inquiry Details:
+Customer contacted us at 9:30 AM regarding payment issues. 
+Follow-up scheduled for 2:45 PM today.
+
+Payment Information:
+Credit Card: 4532 1234 5678 9010
+Expiration: 12/2027
+Last transaction: $89.99 on January 15th
+Pending charge: $1,234.56
+
+Website Activity:
+- Visited: https://www.techcorp.com/products
+- Clicked: https://support.techcorp.com/contact-us
+- Reviewed: https://techcorp.com/pricing?plan=premium&term=annual
+
+Social Media Mentions:
+Customer tweeted: "Great experience with #TechCorp today! #CustomerService #TechSupport"
+Post included: #ProductReview and #Recommended
+
+Additional Contacts:
+Support Team: support@techcorp.com
+Billing: billing.department@techcorp.co.uk
+Emergency: +1-800-555-0199
+
+Meeting Schedule:
+- Team sync: 10:00 AM
+- Client call: 14:30
+- Deadline: 5:00 PM
+- After hours: 11:45pm
+
+Financial Summary:
+Monthly subscription: $49.99
+Annual upgrade: $499.00
+Total spent: $2,847.32
+Refund processed: $25.50
+
+HTML Content from Email:
+<div class="notification">
+  <p>Your payment has been processed.</p>
+  <img src="receipt.jpg" alt="Receipt">
+  <a href="https://dashboard.example.com">View Dashboard</a>
+</div>
+
+Contact References:
+john.doe@company.org
+team-lead@startup.io
+admin_user@service-provider.net
+Phone: 123-456-7890
+Alt Phone: (800) 555-1234
+
+Transactions:
+- Purchase: $15.99 at 8:15 AM
+- Refund: $7.50 at 12:30 PM
+- Credit: $100.00 at 3:20 PM
+
+Card on file: 5425-2334-3010-9903
+Backup card: 378282246310005
+
+Tags used in conversation:
+#Urgent #FollowUp #BillingIssue #Resolved #PriorityCustomer
+
+Links shared:
+http://documentation.example.com/guide
+https://blog.example.org/post/2026/best-practices
+https://www.example.com:8080/api/v1/users
+
+Time tracking:
+Started: 09:30
+First response: 09:45 AM
+Resolution time: 11:15am
+Closed: 11:30 AM
+
+End of transcript.
